@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.pem
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Agent run outputs
+runs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
